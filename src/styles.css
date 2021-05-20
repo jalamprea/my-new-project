@@ -6,3 +6,7 @@ body {
 	margin: 12px;
 	color: red;
 }
+
+.highlight {
+	color: green;
+}
